@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Print message
-        run: echo "Workflow from main.yml is running!"
+        run: echo "Workflow from self_hosted_yml is running!"
